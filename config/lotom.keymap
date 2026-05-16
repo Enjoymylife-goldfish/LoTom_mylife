@@ -33,8 +33,8 @@
             bindings = <
 &kp ESCAPE  &kp BACKSPACE
 &kp Q       &kp L          &kp U             &kp COMMA       &kp PERIOD   &kp LANG1               &kp LANGUAGE_2         &kp F            &kp R            &kp Y       &kp W  &kp P
-&kp O       &kp I          &kp E             &kp A           &kp MINUS    &kp BACKSLASH           &kp SLASH              &kp K            &kp T            &kp N       &kp S  &kp H
-&kp J       &kp X          &kp C             &kp V           &kp AT       &lt 6 LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp G            &kp D            &kp M       &kp Z  &kp B
+&kp O       &kp I          &kp E             &kp A           &kp MINUS    &kp LBKT                &kp RBKT               &kp K            &kp T            &kp N       &kp S  &kp H
+&kp J       &kp X          &kp C             &kp V           &kp LBRC     &lt 6 LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp G            &kp D            &kp M       &kp Z  &kp B
 &kp LCTRL   &kp LEFT_ALT   &kp LEFT_COMMAND  &kp LEFT_SHIFT  &lt 2 SPACE  &lt 4 TAB               &kp ENTER              &lt 3 BACKSPACE  &kp RIGHT_SHIFT  &kp ESCAPE
             >;
 
