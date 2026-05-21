@@ -87,11 +87,11 @@
 
         NUM {
             bindings = <
-&trans            &trans
-&trans            &trans            &trans            &trans           &trans        &trans  &trans  &trans          &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &trans
-&kp LS(NUMBER_4)  &kp RS(NUMBER_2)  &kp QUESTION      &kp SLASH        &trans        &trans  &trans  &trans          &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &trans
-&kp BACKSLASH     &kp RS(NUMBER_7)  &kp LS(NUMBER_1)  &kp KP_MULTIPLY  &kp LS(SEMI)  &trans  &trans  &kp NUMBER_0    &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &trans
-&trans            &trans            &trans            &trans           &trans        &trans  &trans  &kp LEFT_SHIFT  &trans        &trans
+&trans               &trans
+&trans               &trans            &trans            &trans           &trans        &trans  &trans  &trans          &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &trans
+&kp LS(NUMBER_4)     &kp RS(NUMBER_2)  &kp QUESTION      &kp SLASH        &trans        &trans  &trans  &trans          &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &trans
+&kp INTERNATIONAL_1  &kp RS(NUMBER_7)  &kp LS(NUMBER_1)  &kp KP_MULTIPLY  &kp LS(SEMI)  &trans  &trans  &kp NUMBER_0    &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &trans
+&trans               &trans            &trans            &trans           &trans        &trans  &trans  &kp LEFT_SHIFT  &trans        &trans
             >;
 
             sensor-bindings =
